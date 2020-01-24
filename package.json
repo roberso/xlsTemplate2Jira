@@ -1,0 +1,27 @@
+{
+  "name": "xlstemplate2jira",
+  "version": "1.0.0",
+  "description": "Builds a Jira CSV import file from template and spreadsheet ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roberso/xlsTemplate2Jira.git"
+  },
+  "author": "Kenn Roberson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roberso/xlsTemplate2Jira/issues"
+  },
+  "homepage": "https://github.com/roberso/xlsTemplate2Jira#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.0",
+    "json2csv": "^4.5.4",
+    "log4js": "^6.1.0",
+    "number-converter-alphabet": "^1.1.0",
+    "xlsx": "^0.15.4"
+  }
+}

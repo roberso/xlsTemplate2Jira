@@ -1,0 +1,341 @@
+"Issue ID","Issue Type","Summary","Description","Labels","Epic Name","Epic Link"
+2,"Epic","SDWAN PreReq - netopt Luanda, Angola (H1Q)","SDWAN PreReq - netopt Luanda, Angola (H1Q)","country-Angola gecep-416361","SDWAN PreReq - netopt Luanda, Angola (H1Q)",
+3,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+4,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+5,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+6,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Angola gecep-416361",,
+7,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+8,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+9,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+10,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+11,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Angola gecep-416361",,"SDWAN PreReq - netopt Luanda, Angola (H1Q)"
+12,"Epic","SDWAN PreReq - netopt Wien, Austria (I0X)","SDWAN PreReq - netopt Wien, Austria (I0X)","country-Austria gecep-416363","SDWAN PreReq - netopt Wien, Austria (I0X)",
+13,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+14,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+15,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+16,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Austria gecep-416363",,
+17,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+18,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+19,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+20,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+21,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Austria gecep-416363",,"SDWAN PreReq - netopt Wien, Austria (I0X)"
+22,"Epic","SDWAN PreReq - netopt WIEN, Austria (OCS)","SDWAN PreReq - netopt WIEN, Austria (OCS)","country-Austria gecep-416368","SDWAN PreReq - netopt WIEN, Austria (OCS)",
+23,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+24,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+25,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+26,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Austria gecep-416368",,
+27,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+28,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+29,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+30,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+31,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Austria gecep-416368",,"SDWAN PreReq - netopt WIEN, Austria (OCS)"
+32,"Epic","SDWAN PreReq - eCA juniper Wels, Austria (j8v)","SDWAN PreReq - eCA juniper Wels, Austria (j8v)","country-Austria gecep-416366","SDWAN PreReq - eCA juniper Wels, Austria (j8v)",
+33,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+34,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+35,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+36,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Austria gecep-416366",,
+37,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+38,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+39,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+40,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+41,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Austria gecep-416366",,"SDWAN PreReq - eCA juniper Wels, Austria (j8v)"
+42,"Epic","SDWAN PreReq - vba Praha, Czech Republic (CZA)","SDWAN PreReq - vba Praha, Czech Republic (CZA)","country-Czech Republic gecep-416369","SDWAN PreReq - vba Praha, Czech Republic (CZA)",
+43,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+44,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+45,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+46,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Czech Republic gecep-416369",,
+47,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+48,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+49,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+50,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+51,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Czech Republic gecep-416369",,"SDWAN PreReq - vba Praha, Czech Republic (CZA)"
+52,"Epic","SDWAN PreReq - vba HELSINKI, Finland (HEL)","SDWAN PreReq - vba HELSINKI, Finland (HEL)","country-Finland gecep-416375","SDWAN PreReq - vba HELSINKI, Finland (HEL)",
+53,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+54,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+55,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+56,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Finland gecep-416375",,
+57,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+58,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+59,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+60,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+61,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Finland gecep-416375",,"SDWAN PreReq - vba HELSINKI, Finland (HEL)"
+62,"Epic"," -  CLERMONT-FERRAND, France (C4J)"," -  CLERMONT-FERRAND, France (C4J)","country-France gecep-416387"," -  CLERMONT-FERRAND, France (C4J)",
+63,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+64,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+65,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+66,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416387",,
+67,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+68,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+69,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+70,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+71,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416387",," -  CLERMONT-FERRAND, France (C4J)"
+72,"Epic","SDWAN PreReq - vba Nice, France (J0K)","SDWAN PreReq - vba Nice, France (J0K)","country-France gecep-416396","SDWAN PreReq - vba Nice, France (J0K)",
+73,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+74,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+75,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+76,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416396",,
+77,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+78,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+79,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+80,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+81,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416396",,"SDWAN PreReq - vba Nice, France (J0K)"
+82,"Epic","SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)","SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)","country-France gecep-416392","SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)",
+83,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+84,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+85,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+86,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416392",,
+87,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+88,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+89,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+90,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+91,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416392",,"SDWAN PreReq - eCA EoL MARSEILLE, France (C7D)"
+92,"Epic","SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)","SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)","country-France gecep-416393","SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)",
+93,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+94,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+95,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+96,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416393",,
+97,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+98,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+99,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+100,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+101,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416393",,"SDWAN PreReq - eCA EoL MONT SAINT AIGNAN, France (D8A)"
+102,"Epic","SDWAN PreReq - eCA juniper GRABELS, France (e4z)","SDWAN PreReq - eCA juniper GRABELS, France (e4z)","country-France gecep-416394","SDWAN PreReq - eCA juniper GRABELS, France (e4z)",
+103,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+104,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+105,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+106,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416394",,
+107,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+108,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+109,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+110,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+111,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416394",,"SDWAN PreReq - eCA juniper GRABELS, France (e4z)"
+112,"Epic","SDWAN PreReq - eCA juniper GERZAT, France (c4k)","SDWAN PreReq - eCA juniper GERZAT, France (c4k)","country-France gecep-416390","SDWAN PreReq - eCA juniper GERZAT, France (c4k)",
+113,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+114,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+115,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+116,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-416390",,
+117,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+118,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+119,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+120,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+121,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-416390",,"SDWAN PreReq - eCA juniper GERZAT, France (c4k)"
+122,"Epic","SDWAN PreReq - vba Torino, Italy (J2X)","SDWAN PreReq - vba Torino, Italy (J2X)","country-Italy gecep-416562","SDWAN PreReq - vba Torino, Italy (J2X)",
+123,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+124,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+125,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+126,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Italy gecep-416562",,
+127,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+128,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+129,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+130,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+131,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Italy gecep-416562",,"SDWAN PreReq - vba Torino, Italy (J2X)"
+132,"Epic","SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)","SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)","country-Italy gecep-416559","SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)",
+133,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+134,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+135,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+136,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Italy gecep-416559",,
+137,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+138,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+139,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+140,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+141,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Italy gecep-416559",,"SDWAN PreReq - eCA EoL GENOVA, Italy (0JS)"
+142,"Epic","SDWAN PreReq - netopt LAGOS, Nigeria (I9G)","SDWAN PreReq - netopt LAGOS, Nigeria (I9G)","country-Nigeria gecep-416563","SDWAN PreReq - netopt LAGOS, Nigeria (I9G)",
+143,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+144,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+145,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+146,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Nigeria gecep-416563",,
+147,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+148,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+149,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+150,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+151,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Nigeria gecep-416563",,"SDWAN PreReq - netopt LAGOS, Nigeria (I9G)"
+152,"Epic","SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)","SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)","country-Pakistan gecep-416855","SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)",
+153,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+154,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+155,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+156,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Pakistan gecep-416855",,
+157,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+158,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+159,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+160,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+161,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Pakistan gecep-416855",,"SDWAN PreReq - netopt ISLAMABAD, Pakistan (E8Q)"
+162,"Epic","SDWAN PreReq - netopt BLONIE, Poland (H7I)","SDWAN PreReq - netopt BLONIE, Poland (H7I)","country-Poland gecep-416587","SDWAN PreReq - netopt BLONIE, Poland (H7I)",
+163,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+164,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+165,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+166,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Poland gecep-416587",,
+167,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+168,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+169,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+170,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+171,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Poland gecep-416587",,"SDWAN PreReq - netopt BLONIE, Poland (H7I)"
+172,"Epic","SDWAN PreReq - netopt POZNAN, Poland (POZ)","SDWAN PreReq - netopt POZNAN, Poland (POZ)","country-Poland gecep-416590","SDWAN PreReq - netopt POZNAN, Poland (POZ)",
+173,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+174,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+175,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+176,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Poland gecep-416590",,
+177,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+178,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+179,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+180,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+181,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Poland gecep-416590",,"SDWAN PreReq - netopt POZNAN, Poland (POZ)"
+182,"Epic","SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)","SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)","country-Portugal gecep-416594","SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)",
+183,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+184,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+185,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+186,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Portugal gecep-416594",,
+187,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+188,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+189,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+190,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+191,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Portugal gecep-416594",,"SDWAN PreReq - netopt PORTO SALVO, Portugal (NCI)"
+192,"Epic","SDWAN PreReq - vba LISBOA, Portugal (LSB)","SDWAN PreReq - vba LISBOA, Portugal (LSB)","country-Portugal gecep-416591","SDWAN PreReq - vba LISBOA, Portugal (LSB)",
+193,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+194,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+195,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+196,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Portugal gecep-416591",,
+197,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+198,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+199,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+200,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+201,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Portugal gecep-416591",,"SDWAN PreReq - vba LISBOA, Portugal (LSB)"
+202,"Epic"," -  PORTO, Portugal (PTK)"," -  PORTO, Portugal (PTK)","country-Portugal gecep-416598"," -  PORTO, Portugal (PTK)",
+203,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+204,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+205,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+206,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Portugal gecep-416598",,
+207,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+208,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+209,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+210,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+211,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Portugal gecep-416598",," -  PORTO, Portugal (PTK)"
+212,"Epic","SDWAN PreReq - netopt BELGRADE, Serbia (D9X)","SDWAN PreReq - netopt BELGRADE, Serbia (D9X)","country-Serbia gecep-416599","SDWAN PreReq - netopt BELGRADE, Serbia (D9X)",
+213,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+214,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+215,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+216,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Serbia gecep-416599",,
+217,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+218,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+219,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+220,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+221,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Serbia gecep-416599",,"SDWAN PreReq - netopt BELGRADE, Serbia (D9X)"
+222,"Epic"," -  Ljubljana, Slovenia (F4U)"," -  Ljubljana, Slovenia (F4U)","country-Slovenia gecep-416600"," -  Ljubljana, Slovenia (F4U)",
+223,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+224,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+225,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+226,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Slovenia gecep-416600",,
+227,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+228,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+229,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+230,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+231,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Slovenia gecep-416600",," -  Ljubljana, Slovenia (F4U)"
+232,"Epic","SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)","SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)","country-Spain gecep-416373","SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)",
+233,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+234,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+235,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+236,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Spain gecep-416373",,
+237,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+238,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+239,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+240,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+241,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Spain gecep-416373",,"SDWAN PreReq - eCA EoL LA CORUNA, Spain (0JB)"
+242,"Epic","SDWAN PreReq - netopt Preston, United Kingdom (H4G)","SDWAN PreReq - netopt Preston, United Kingdom (H4G)","country-United Kingdom gecep-416860","SDWAN PreReq - netopt Preston, United Kingdom (H4G)",
+243,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+244,"Story","Initiate communication with PIM","Initiate communication with PIM","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+245,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+246,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-United Kingdom gecep-416860",,
+247,"Story","Confirm HW Ordering","Confirm HW Ordering","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+248,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+249,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+250,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+251,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-United Kingdom gecep-416860",,"SDWAN PreReq - netopt Preston, United Kingdom (H4G)"
+252,"Epic","SDWAN PreReq - netopt WOKING, United Kingdom (G8H)","SDWAN PreReq - netopt WOKING, United Kingdom (G8H)","country-United Kingdom gecep-416837","SDWAN PreReq - netopt WOKING, United Kingdom (G8H)",
+253,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+254,"Story","Initiate communication with PIM","Initiate communication with PIM","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+255,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+256,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-United Kingdom gecep-416837",,
+257,"Story","Confirm HW Ordering","Confirm HW Ordering","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+258,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+259,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+260,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+261,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-United Kingdom gecep-416837",,"SDWAN PreReq - netopt WOKING, United Kingdom (G8H)"
+262,"Epic","SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)","SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)","country-United Kingdom gecep-416835","SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)",
+263,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+264,"Story","Initiate communication with PIM","Initiate communication with PIM","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+265,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+266,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-United Kingdom gecep-416835",,
+267,"Story","Confirm HW Ordering","Confirm HW Ordering","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+268,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+269,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+270,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+271,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-United Kingdom gecep-416835",,"SDWAN PreReq - netopt MILTON KEYNES, United Kingdom (D2E)"
+272,"Epic"," -  Boigny, France (D4R)"," -  Boigny, France (D4R)","country-France gecep-417317"," -  Boigny, France (D4R)",
+273,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-France gecep-417317",," -  Boigny, France (D4R)"
+274,"Story","Initiate communication with PIM","Initiate communication with PIM","country-France gecep-417317",," -  Boigny, France (D4R)"
+275,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-France gecep-417317",," -  Boigny, France (D4R)"
+276,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-France gecep-417317",,
+277,"Story","Confirm HW Ordering","Confirm HW Ordering","country-France gecep-417317",," -  Boigny, France (D4R)"
+278,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-France gecep-417317",," -  Boigny, France (D4R)"
+279,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-France gecep-417317",," -  Boigny, France (D4R)"
+280,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-France gecep-417317",," -  Boigny, France (D4R)"
+281,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-France gecep-417317",," -  Boigny, France (D4R)"
+282,"Epic"," -  Padova, Italy (K9A)"," -  Padova, Italy (K9A)","country-Italy gecep-417320"," -  Padova, Italy (K9A)",
+283,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+284,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+285,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+286,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Italy gecep-417320",,
+287,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+288,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+289,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+290,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+291,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Italy gecep-417320",," -  Padova, Italy (K9A)"
+292,"Epic","SDWAN PreReq - netopt Casablanca, Morocco (I6F)","SDWAN PreReq - netopt Casablanca, Morocco (I6F)","country-Morocco gecep-417328","SDWAN PreReq - netopt Casablanca, Morocco (I6F)",
+293,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+294,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+295,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+296,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Morocco gecep-417328",,
+297,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+298,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+299,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+300,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+301,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Morocco gecep-417328",,"SDWAN PreReq - netopt Casablanca, Morocco (I6F)"
+302,"Epic","SDWAN PreReq - HW refresh Madrid, Spain (00H)","SDWAN PreReq - HW refresh Madrid, Spain (00H)","country-Spain gecep-417635","SDWAN PreReq - HW refresh Madrid, Spain (00H)",
+303,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+304,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+305,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+306,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Spain gecep-417635",,
+307,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+308,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+309,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+310,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+311,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Spain gecep-417635",,"SDWAN PreReq - HW refresh Madrid, Spain (00H)"
+312,"Epic","SDWAN PreReq - HW refresh Brasow, Romania (I9W)","SDWAN PreReq - HW refresh Brasow, Romania (I9W)","country-Romania gecep-417638","SDWAN PreReq - HW refresh Brasow, Romania (I9W)",
+313,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+314,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+315,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+316,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Romania gecep-417638",,
+317,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+318,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+319,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+320,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+321,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Romania gecep-417638",,"SDWAN PreReq - HW refresh Brasow, Romania (I9W)"
+322,"Epic","SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)","SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)","country-Croatia gecep-419513","SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)",
+323,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+324,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+325,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+326,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Croatia gecep-419513",,
+327,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+328,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+329,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+330,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+331,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Croatia gecep-419513",,"SDWAN PreReq - NetOP template upgrade Zagreb, Croatia (K1Q)"
+332,"Epic","SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)","SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)","country-Bulgaria gecep-419514","SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)",
+333,"Story","Confirm local contact and site details for","Confirm local contact and site details for","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+334,"Story","Initiate communication with PIM","Initiate communication with PIM","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+335,"Story","Request Infrastructure details review with IBM locals","Request Infrastructure details review with IBM locals","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+336,"subtask","Infrastructure requirements - IBM ordering","Infrastructure requirements - IBM ordering","country-Bulgaria gecep-419514",,
+337,"Story","Confirm HW Ordering","Confirm HW Ordering","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+338,"Story","Monitor Hardware delivery","Monitor Hardware delivery","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+339,"Story","Plan a Kick off call (ATT- PM - Local contacts)","Plan a Kick off call (ATT- PM - Local contacts)","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+340,"Story","Confirm Installation - Implementation completed","Confirm Installation - Implementation completed","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
+341,"Story","Final Gecep verifications - completion and closing","Final Gecep verifications - completion and closing","country-Bulgaria gecep-419514",,"SDWAN PreReq - NetOP template upgrade Sofia, Bulgaria (SOB)"
