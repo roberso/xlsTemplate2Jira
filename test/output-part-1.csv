@@ -1,0 +1,801 @@
+"Issue ID","Issue Type","Summary","Description","Labels","Assignee","Epic Name","Epic Link"
+2,"Epic","Project A - new lunch Luanda, Angola (1)","Project A - new lunch Luanda, Angola (1)","country-Angola workitem-111","aaa@bogus.net","Project A - new lunch Luanda, Angola (1)",
+3,"Story","Confirm seating","Confirm seating","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+4,"Story","Check menu","Check menu","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+5,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Angola workitem-111","aaa@bogus.net",,
+6,"Story","split check","split check","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+7,"Story","check tip","check tip","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+8,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+9,"Story","Leave place","Leave place","country-Angola workitem-111","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+10,"Epic","Project A - new lunch Wien, Austria (2)","Project A - new lunch Wien, Austria (2)","country-Austria workitem-222","aaa@bogus.net","Project A - new lunch Wien, Austria (2)",
+11,"Story","Confirm seating","Confirm seating","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+12,"Story","Check menu","Check menu","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+13,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-222","aaa@bogus.net",,
+14,"Story","split check","split check","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+15,"Story","check tip","check tip","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+16,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+17,"Story","Leave place","Leave place","country-Austria workitem-222","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+18,"Epic","Project A - new lunch WIEN, Austria (3)","Project A - new lunch WIEN, Austria (3)","country-Austria workitem-333","aaa@bogus.net","Project A - new lunch WIEN, Austria (3)",
+19,"Story","Confirm seating","Confirm seating","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+20,"Story","Check menu","Check menu","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+21,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-333","aaa@bogus.net",,
+22,"Story","split check","split check","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+23,"Story","check tip","check tip","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+24,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+25,"Story","Leave place","Leave place","country-Austria workitem-333","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+26,"Epic","Project A - new lunch Wels, Austria (4)","Project A - new lunch Wels, Austria (4)","country-Austria workitem-444","aaa@bogus.net","Project A - new lunch Wels, Austria (4)",
+27,"Story","Confirm seating","Confirm seating","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+28,"Story","Check menu","Check menu","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+29,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-444","aaa@bogus.net",,
+30,"Story","split check","split check","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+31,"Story","check tip","check tip","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+32,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+33,"Story","Leave place","Leave place","country-Austria workitem-444","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+34,"Epic","Project A - new lunch Praha, Czech Republic (5)","Project A - new lunch Praha, Czech Republic (5)","country-Czech Republic workitem-555","aaa@bogus.net","Project A - new lunch Praha, Czech Republic (5)",
+35,"Story","Confirm seating","Confirm seating","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+36,"Story","Check menu","Check menu","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+37,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Czech Republic workitem-555","aaa@bogus.net",,
+38,"Story","split check","split check","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+39,"Story","check tip","check tip","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+40,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+41,"Story","Leave place","Leave place","country-Czech Republic workitem-555","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+42,"Epic","Project A - late dinner HELSINKI, Finland (6)","Project A - late dinner HELSINKI, Finland (6)","country-Finland workitem-666","aaa@bogus.net","Project A - late dinner HELSINKI, Finland (6)",
+43,"Story","Confirm seating","Confirm seating","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+44,"Story","Check menu","Check menu","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+45,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Finland workitem-666","aaa@bogus.net",,
+46,"Story","split check","split check","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+47,"Story","check tip","check tip","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+48,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+49,"Story","Leave place","Leave place","country-Finland workitem-666","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+50,"Epic","Project A - late dinner CLERMONT-FERRAND, France (7)","Project A - late dinner CLERMONT-FERRAND, France (7)","country-France workitem-777","aaa@bogus.net","Project A - late dinner CLERMONT-FERRAND, France (7)",
+51,"Story","Confirm seating","Confirm seating","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+52,"Story","Check menu","Check menu","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+53,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-777","aaa@bogus.net",,
+54,"Story","split check","split check","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+55,"Story","check tip","check tip","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+56,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+57,"Story","Leave place","Leave place","country-France workitem-777","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+58,"Epic","Project A - late dinner Nice, France (8)","Project A - late dinner Nice, France (8)","country-France workitem-888","bbb@bogus.net","Project A - late dinner Nice, France (8)",
+59,"Story","Confirm seating","Confirm seating","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+60,"Story","Check menu","Check menu","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+61,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-888","bbb@bogus.net",,
+62,"Story","split check","split check","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+63,"Story","check tip","check tip","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+64,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+65,"Story","Leave place","Leave place","country-France workitem-888","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+66,"Epic","Project A - late dinner MARSEILLE, France (9)","Project A - late dinner MARSEILLE, France (9)","country-France workitem-999","bbb@bogus.net","Project A - late dinner MARSEILLE, France (9)",
+67,"Story","Confirm seating","Confirm seating","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+68,"Story","Check menu","Check menu","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+69,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-999","bbb@bogus.net",,
+70,"Story","split check","split check","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+71,"Story","check tip","check tip","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+72,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+73,"Story","Leave place","Leave place","country-France workitem-999","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+74,"Epic","Project A - burger joint MONT SAINT AIGNAN, France (10)","Project A - burger joint MONT SAINT AIGNAN, France (10)","country-France workitem-1110","bbb@bogus.net","Project A - burger joint MONT SAINT AIGNAN, France (10)",
+75,"Story","Confirm seating","Confirm seating","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+76,"Story","Check menu","Check menu","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+77,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-1110","bbb@bogus.net",,
+78,"Story","split check","split check","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+79,"Story","check tip","check tip","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+80,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+81,"Story","Leave place","Leave place","country-France workitem-1110","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+82,"Epic","Project A - burger joint GRABELS, France (11)","Project A - burger joint GRABELS, France (11)","country-France workitem-1221","bbb@bogus.net","Project A - burger joint GRABELS, France (11)",
+83,"Story","Confirm seating","Confirm seating","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+84,"Story","Check menu","Check menu","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+85,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-1221","bbb@bogus.net",,
+86,"Story","split check","split check","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+87,"Story","check tip","check tip","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+88,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+89,"Story","Leave place","Leave place","country-France workitem-1221","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+90,"Epic","Project A - late dinner GERZAT, France (12)","Project A - late dinner GERZAT, France (12)","country-France workitem-1332","bbb@bogus.net","Project A - late dinner GERZAT, France (12)",
+91,"Story","Confirm seating","Confirm seating","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+92,"Story","Check menu","Check menu","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+93,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-1332","bbb@bogus.net",,
+94,"Story","split check","split check","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+95,"Story","check tip","check tip","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+96,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+97,"Story","Leave place","Leave place","country-France workitem-1332","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+98,"Epic","Project A - late dinner Torino, Italy (13)","Project A - late dinner Torino, Italy (13)","country-Italy workitem-1443","bbb@bogus.net","Project A - late dinner Torino, Italy (13)",
+99,"Story","Confirm seating","Confirm seating","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+100,"Story","Check menu","Check menu","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+101,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-1443","bbb@bogus.net",,
+102,"Story","split check","split check","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+103,"Story","check tip","check tip","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+104,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+105,"Story","Leave place","Leave place","country-Italy workitem-1443","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+106,"Epic","Project A - salad GENOVA, Italy (14)","Project A - salad GENOVA, Italy (14)","country-Italy workitem-1554","bbb@bogus.net","Project A - salad GENOVA, Italy (14)",
+107,"Story","Confirm seating","Confirm seating","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+108,"Story","Check menu","Check menu","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+109,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-1554","bbb@bogus.net",,
+110,"Story","split check","split check","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+111,"Story","check tip","check tip","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+112,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+113,"Story","Leave place","Leave place","country-Italy workitem-1554","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+114,"Epic","Project A - new lunch LAGOS, Nigeria (15)","Project A - new lunch LAGOS, Nigeria (15)","country-Nigeria workitem-1665","ccc@bogus.net","Project A - new lunch LAGOS, Nigeria (15)",
+115,"Story","Confirm seating","Confirm seating","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+116,"Story","Check menu","Check menu","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+117,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Nigeria workitem-1665","ccc@bogus.net",,
+118,"Story","split check","split check","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+119,"Story","check tip","check tip","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+120,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+121,"Story","Leave place","Leave place","country-Nigeria workitem-1665","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+122,"Epic","Project A - new lunch ISLAMABAD, Pakistan (16)","Project A - new lunch ISLAMABAD, Pakistan (16)","country-Pakistan workitem-1776","ccc@bogus.net","Project A - new lunch ISLAMABAD, Pakistan (16)",
+123,"Story","Confirm seating","Confirm seating","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+124,"Story","Check menu","Check menu","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+125,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Pakistan workitem-1776","ccc@bogus.net",,
+126,"Story","split check","split check","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+127,"Story","check tip","check tip","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+128,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+129,"Story","Leave place","Leave place","country-Pakistan workitem-1776","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+130,"Epic","Project A - new lunch BLONIE, Poland (17)","Project A - new lunch BLONIE, Poland (17)","country-Poland workitem-1887","ccc@bogus.net","Project A - new lunch BLONIE, Poland (17)",
+131,"Story","Confirm seating","Confirm seating","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+132,"Story","Check menu","Check menu","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+133,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-1887","ccc@bogus.net",,
+134,"Story","split check","split check","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+135,"Story","check tip","check tip","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+136,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+137,"Story","Leave place","Leave place","country-Poland workitem-1887","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+138,"Epic","Project A - new lunch POZNAN, Poland (18)","Project A - new lunch POZNAN, Poland (18)","country-Poland workitem-1998","ccc@bogus.net","Project A - new lunch POZNAN, Poland (18)",
+139,"Story","Confirm seating","Confirm seating","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+140,"Story","Check menu","Check menu","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+141,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-1998","ccc@bogus.net",,
+142,"Story","split check","split check","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+143,"Story","check tip","check tip","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+144,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+145,"Story","Leave place","Leave place","country-Poland workitem-1998","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+146,"Epic","Project A - late dinner PORTO SALVO, Portugal (19)","Project A - late dinner PORTO SALVO, Portugal (19)","country-Portugal workitem-2109","ccc@bogus.net","Project A - late dinner PORTO SALVO, Portugal (19)",
+147,"Story","Confirm seating","Confirm seating","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+148,"Story","Check menu","Check menu","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+149,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-2109","ccc@bogus.net",,
+150,"Story","split check","split check","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+151,"Story","check tip","check tip","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+152,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+153,"Story","Leave place","Leave place","country-Portugal workitem-2109","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+154,"Epic","Project A - late dinner LISBOA, Portugal (20)","Project A - late dinner LISBOA, Portugal (20)","country-Portugal workitem-2220","ccc@bogus.net","Project A - late dinner LISBOA, Portugal (20)",
+155,"Story","Confirm seating","Confirm seating","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+156,"Story","Check menu","Check menu","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+157,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-2220","ccc@bogus.net",,
+158,"Story","split check","split check","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+159,"Story","check tip","check tip","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+160,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+161,"Story","Leave place","Leave place","country-Portugal workitem-2220","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+162,"Epic","Project A - burger joint PORTO, Portugal (21)","Project A - burger joint PORTO, Portugal (21)","country-Portugal workitem-2331","aaa@bogus.net","Project A - burger joint PORTO, Portugal (21)",
+163,"Story","Confirm seating","Confirm seating","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+164,"Story","Check menu","Check menu","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+165,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-2331","aaa@bogus.net",,
+166,"Story","split check","split check","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+167,"Story","check tip","check tip","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+168,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+169,"Story","Leave place","Leave place","country-Portugal workitem-2331","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+170,"Epic","Project A - burger joint BELGRADE, Serbia (22)","Project A - burger joint BELGRADE, Serbia (22)","country-Serbia workitem-2442","aaa@bogus.net","Project A - burger joint BELGRADE, Serbia (22)",
+171,"Story","Confirm seating","Confirm seating","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+172,"Story","Check menu","Check menu","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+173,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Serbia workitem-2442","aaa@bogus.net",,
+174,"Story","split check","split check","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+175,"Story","check tip","check tip","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+176,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+177,"Story","Leave place","Leave place","country-Serbia workitem-2442","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+178,"Epic","Project A - late dinner Ljubljana, Slovenia (23)","Project A - late dinner Ljubljana, Slovenia (23)","country-Slovenia workitem-2553","aaa@bogus.net","Project A - late dinner Ljubljana, Slovenia (23)",
+179,"Story","Confirm seating","Confirm seating","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+180,"Story","Check menu","Check menu","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+181,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Slovenia workitem-2553","aaa@bogus.net",,
+182,"Story","split check","split check","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+183,"Story","check tip","check tip","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+184,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+185,"Story","Leave place","Leave place","country-Slovenia workitem-2553","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+186,"Epic","Project A - late dinner LA CORUNA, Spain (24)","Project A - late dinner LA CORUNA, Spain (24)","country-Spain workitem-2664","bbb@bogus.net","Project A - late dinner LA CORUNA, Spain (24)",
+187,"Story","Confirm seating","Confirm seating","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+188,"Story","Check menu","Check menu","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+189,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-2664","bbb@bogus.net",,
+190,"Story","split check","split check","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+191,"Story","check tip","check tip","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+192,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+193,"Story","Leave place","Leave place","country-Spain workitem-2664","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+194,"Epic","Project A - salad Preston, United Kingdom (25)","Project A - salad Preston, United Kingdom (25)","country-United Kingdom workitem-2775","bbb@bogus.net","Project A - salad Preston, United Kingdom (25)",
+195,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+196,"Story","Check menu","Check menu","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+197,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-2775","bbb@bogus.net",,
+198,"Story","split check","split check","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+199,"Story","check tip","check tip","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+200,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+201,"Story","Leave place","Leave place","country-United Kingdom workitem-2775","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+202,"Epic","Project A - new lunch WOKING, United Kingdom (26)","Project A - new lunch WOKING, United Kingdom (26)","country-United Kingdom workitem-2886","bbb@bogus.net","Project A - new lunch WOKING, United Kingdom (26)",
+203,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+204,"Story","Check menu","Check menu","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+205,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-2886","bbb@bogus.net",,
+206,"Story","split check","split check","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+207,"Story","check tip","check tip","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+208,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+209,"Story","Leave place","Leave place","country-United Kingdom workitem-2886","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+210,"Epic","Project A - new lunch MILTON KEYNES, United Kingdom (27)","Project A - new lunch MILTON KEYNES, United Kingdom (27)","country-United Kingdom workitem-2997","bbb@bogus.net","Project A - new lunch MILTON KEYNES, United Kingdom (27)",
+211,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+212,"Story","Check menu","Check menu","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+213,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-2997","bbb@bogus.net",,
+214,"Story","split check","split check","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+215,"Story","check tip","check tip","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+216,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+217,"Story","Leave place","Leave place","country-United Kingdom workitem-2997","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+218,"Epic","Project A - late dinner Boigny, France (28)","Project A - late dinner Boigny, France (28)","country-France workitem-3108","bbb@bogus.net","Project A - late dinner Boigny, France (28)",
+219,"Story","Confirm seating","Confirm seating","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+220,"Story","Check menu","Check menu","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+221,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-3108","bbb@bogus.net",,
+222,"Story","split check","split check","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+223,"Story","check tip","check tip","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+224,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+225,"Story","Leave place","Leave place","country-France workitem-3108","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+226,"Epic","Project A - late dinner Padova, Italy (29)","Project A - late dinner Padova, Italy (29)","country-Italy workitem-3219","bbb@bogus.net","Project A - late dinner Padova, Italy (29)",
+227,"Story","Confirm seating","Confirm seating","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+228,"Story","Check menu","Check menu","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+229,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-3219","bbb@bogus.net",,
+230,"Story","split check","split check","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+231,"Story","check tip","check tip","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+232,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+233,"Story","Leave place","Leave place","country-Italy workitem-3219","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+234,"Epic","Project A - burger joint Casablanca, Morocco (30)","Project A - burger joint Casablanca, Morocco (30)","country-Morocco workitem-3330","bbb@bogus.net","Project A - burger joint Casablanca, Morocco (30)",
+235,"Story","Confirm seating","Confirm seating","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+236,"Story","Check menu","Check menu","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+237,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Morocco workitem-3330","bbb@bogus.net",,
+238,"Story","split check","split check","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+239,"Story","check tip","check tip","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+240,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+241,"Story","Leave place","Leave place","country-Morocco workitem-3330","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+242,"Epic","Project A - burger joint Madrid, Spain (31)","Project A - burger joint Madrid, Spain (31)","country-Spain workitem-3441","ccc@bogus.net","Project A - burger joint Madrid, Spain (31)",
+243,"Story","Confirm seating","Confirm seating","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+244,"Story","Check menu","Check menu","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+245,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-3441","ccc@bogus.net",,
+246,"Story","split check","split check","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+247,"Story","check tip","check tip","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+248,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+249,"Story","Leave place","Leave place","country-Spain workitem-3441","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+250,"Epic","Project A - late dinner Brasow, Romania (32)","Project A - late dinner Brasow, Romania (32)","country-Romania workitem-3552","ccc@bogus.net","Project A - late dinner Brasow, Romania (32)",
+251,"Story","Confirm seating","Confirm seating","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+252,"Story","Check menu","Check menu","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+253,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Romania workitem-3552","ccc@bogus.net",,
+254,"Story","split check","split check","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+255,"Story","check tip","check tip","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+256,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+257,"Story","Leave place","Leave place","country-Romania workitem-3552","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+258,"Epic","Project A - late dinner Zagreb, Croatia (33)","Project A - late dinner Zagreb, Croatia (33)","country-Croatia workitem-3663","ccc@bogus.net","Project A - late dinner Zagreb, Croatia (33)",
+259,"Story","Confirm seating","Confirm seating","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+260,"Story","Check menu","Check menu","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+261,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Croatia workitem-3663","ccc@bogus.net",,
+262,"Story","split check","split check","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+263,"Story","check tip","check tip","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+264,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+265,"Story","Leave place","Leave place","country-Croatia workitem-3663","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+266,"Epic","Project A - salad Sofia, Bulgaria (34)","Project A - salad Sofia, Bulgaria (34)","country-Bulgaria workitem-3774","bbb@bogus.net","Project A - salad Sofia, Bulgaria (34)",
+267,"Story","Confirm seating","Confirm seating","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+268,"Story","Check menu","Check menu","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+269,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Bulgaria workitem-3774","bbb@bogus.net",,
+270,"Story","split check","split check","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+271,"Story","check tip","check tip","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+272,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+273,"Story","Leave place","Leave place","country-Bulgaria workitem-3774","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+274,"Epic","Project A - new lunch Luanda, Angola (1)","Project A - new lunch Luanda, Angola (1)","country-Angola workitem-3885","aaa@bogus.net","Project A - new lunch Luanda, Angola (1)",
+275,"Story","Confirm seating","Confirm seating","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+276,"Story","Check menu","Check menu","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+277,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Angola workitem-3885","aaa@bogus.net",,
+278,"Story","split check","split check","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+279,"Story","check tip","check tip","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+280,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+281,"Story","Leave place","Leave place","country-Angola workitem-3885","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+282,"Epic","Project A - new lunch Wien, Austria (2)","Project A - new lunch Wien, Austria (2)","country-Austria workitem-3996","aaa@bogus.net","Project A - new lunch Wien, Austria (2)",
+283,"Story","Confirm seating","Confirm seating","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+284,"Story","Check menu","Check menu","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+285,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-3996","aaa@bogus.net",,
+286,"Story","split check","split check","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+287,"Story","check tip","check tip","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+288,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+289,"Story","Leave place","Leave place","country-Austria workitem-3996","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+290,"Epic","Project A - new lunch WIEN, Austria (3)","Project A - new lunch WIEN, Austria (3)","country-Austria workitem-4107","aaa@bogus.net","Project A - new lunch WIEN, Austria (3)",
+291,"Story","Confirm seating","Confirm seating","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+292,"Story","Check menu","Check menu","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+293,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-4107","aaa@bogus.net",,
+294,"Story","split check","split check","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+295,"Story","check tip","check tip","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+296,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+297,"Story","Leave place","Leave place","country-Austria workitem-4107","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+298,"Epic","Project A - new lunch Wels, Austria (4)","Project A - new lunch Wels, Austria (4)","country-Austria workitem-4218","aaa@bogus.net","Project A - new lunch Wels, Austria (4)",
+299,"Story","Confirm seating","Confirm seating","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+300,"Story","Check menu","Check menu","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+301,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-4218","aaa@bogus.net",,
+302,"Story","split check","split check","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+303,"Story","check tip","check tip","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+304,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+305,"Story","Leave place","Leave place","country-Austria workitem-4218","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+306,"Epic","Project A - new lunch Praha, Czech Republic (5)","Project A - new lunch Praha, Czech Republic (5)","country-Czech Republic workitem-4329","aaa@bogus.net","Project A - new lunch Praha, Czech Republic (5)",
+307,"Story","Confirm seating","Confirm seating","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+308,"Story","Check menu","Check menu","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+309,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Czech Republic workitem-4329","aaa@bogus.net",,
+310,"Story","split check","split check","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+311,"Story","check tip","check tip","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+312,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+313,"Story","Leave place","Leave place","country-Czech Republic workitem-4329","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+314,"Epic","Project A - late dinner HELSINKI, Finland (6)","Project A - late dinner HELSINKI, Finland (6)","country-Finland workitem-4440","aaa@bogus.net","Project A - late dinner HELSINKI, Finland (6)",
+315,"Story","Confirm seating","Confirm seating","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+316,"Story","Check menu","Check menu","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+317,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Finland workitem-4440","aaa@bogus.net",,
+318,"Story","split check","split check","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+319,"Story","check tip","check tip","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+320,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+321,"Story","Leave place","Leave place","country-Finland workitem-4440","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+322,"Epic","Project A - late dinner CLERMONT-FERRAND, France (7)","Project A - late dinner CLERMONT-FERRAND, France (7)","country-France workitem-4551","aaa@bogus.net","Project A - late dinner CLERMONT-FERRAND, France (7)",
+323,"Story","Confirm seating","Confirm seating","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+324,"Story","Check menu","Check menu","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+325,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-4551","aaa@bogus.net",,
+326,"Story","split check","split check","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+327,"Story","check tip","check tip","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+328,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+329,"Story","Leave place","Leave place","country-France workitem-4551","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+330,"Epic","Project A - late dinner Nice, France (8)","Project A - late dinner Nice, France (8)","country-France workitem-4662","bbb@bogus.net","Project A - late dinner Nice, France (8)",
+331,"Story","Confirm seating","Confirm seating","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+332,"Story","Check menu","Check menu","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+333,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-4662","bbb@bogus.net",,
+334,"Story","split check","split check","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+335,"Story","check tip","check tip","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+336,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+337,"Story","Leave place","Leave place","country-France workitem-4662","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+338,"Epic","Project A - late dinner MARSEILLE, France (9)","Project A - late dinner MARSEILLE, France (9)","country-France workitem-4773","bbb@bogus.net","Project A - late dinner MARSEILLE, France (9)",
+339,"Story","Confirm seating","Confirm seating","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+340,"Story","Check menu","Check menu","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+341,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-4773","bbb@bogus.net",,
+342,"Story","split check","split check","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+343,"Story","check tip","check tip","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+344,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+345,"Story","Leave place","Leave place","country-France workitem-4773","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+346,"Epic","Project A - burger joint MONT SAINT AIGNAN, France (10)","Project A - burger joint MONT SAINT AIGNAN, France (10)","country-France workitem-4884","bbb@bogus.net","Project A - burger joint MONT SAINT AIGNAN, France (10)",
+347,"Story","Confirm seating","Confirm seating","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+348,"Story","Check menu","Check menu","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+349,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-4884","bbb@bogus.net",,
+350,"Story","split check","split check","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+351,"Story","check tip","check tip","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+352,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+353,"Story","Leave place","Leave place","country-France workitem-4884","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+354,"Epic","Project A - burger joint GRABELS, France (11)","Project A - burger joint GRABELS, France (11)","country-France workitem-4995","bbb@bogus.net","Project A - burger joint GRABELS, France (11)",
+355,"Story","Confirm seating","Confirm seating","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+356,"Story","Check menu","Check menu","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+357,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-4995","bbb@bogus.net",,
+358,"Story","split check","split check","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+359,"Story","check tip","check tip","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+360,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+361,"Story","Leave place","Leave place","country-France workitem-4995","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+362,"Epic","Project A - late dinner GERZAT, France (12)","Project A - late dinner GERZAT, France (12)","country-France workitem-5106","bbb@bogus.net","Project A - late dinner GERZAT, France (12)",
+363,"Story","Confirm seating","Confirm seating","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+364,"Story","Check menu","Check menu","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+365,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-5106","bbb@bogus.net",,
+366,"Story","split check","split check","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+367,"Story","check tip","check tip","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+368,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+369,"Story","Leave place","Leave place","country-France workitem-5106","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+370,"Epic","Project A - late dinner Torino, Italy (13)","Project A - late dinner Torino, Italy (13)","country-Italy workitem-5217","bbb@bogus.net","Project A - late dinner Torino, Italy (13)",
+371,"Story","Confirm seating","Confirm seating","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+372,"Story","Check menu","Check menu","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+373,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-5217","bbb@bogus.net",,
+374,"Story","split check","split check","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+375,"Story","check tip","check tip","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+376,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+377,"Story","Leave place","Leave place","country-Italy workitem-5217","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+378,"Epic","Project A - salad GENOVA, Italy (14)","Project A - salad GENOVA, Italy (14)","country-Italy workitem-5328","bbb@bogus.net","Project A - salad GENOVA, Italy (14)",
+379,"Story","Confirm seating","Confirm seating","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+380,"Story","Check menu","Check menu","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+381,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-5328","bbb@bogus.net",,
+382,"Story","split check","split check","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+383,"Story","check tip","check tip","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+384,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+385,"Story","Leave place","Leave place","country-Italy workitem-5328","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+386,"Epic","Project A - new lunch LAGOS, Nigeria (15)","Project A - new lunch LAGOS, Nigeria (15)","country-Nigeria workitem-5439","ccc@bogus.net","Project A - new lunch LAGOS, Nigeria (15)",
+387,"Story","Confirm seating","Confirm seating","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+388,"Story","Check menu","Check menu","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+389,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Nigeria workitem-5439","ccc@bogus.net",,
+390,"Story","split check","split check","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+391,"Story","check tip","check tip","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+392,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+393,"Story","Leave place","Leave place","country-Nigeria workitem-5439","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+394,"Epic","Project A - new lunch ISLAMABAD, Pakistan (16)","Project A - new lunch ISLAMABAD, Pakistan (16)","country-Pakistan workitem-5550","ccc@bogus.net","Project A - new lunch ISLAMABAD, Pakistan (16)",
+395,"Story","Confirm seating","Confirm seating","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+396,"Story","Check menu","Check menu","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+397,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Pakistan workitem-5550","ccc@bogus.net",,
+398,"Story","split check","split check","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+399,"Story","check tip","check tip","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+400,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+401,"Story","Leave place","Leave place","country-Pakistan workitem-5550","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+402,"Epic","Project A - new lunch BLONIE, Poland (17)","Project A - new lunch BLONIE, Poland (17)","country-Poland workitem-5661","ccc@bogus.net","Project A - new lunch BLONIE, Poland (17)",
+403,"Story","Confirm seating","Confirm seating","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+404,"Story","Check menu","Check menu","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+405,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-5661","ccc@bogus.net",,
+406,"Story","split check","split check","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+407,"Story","check tip","check tip","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+408,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+409,"Story","Leave place","Leave place","country-Poland workitem-5661","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+410,"Epic","Project A - new lunch POZNAN, Poland (18)","Project A - new lunch POZNAN, Poland (18)","country-Poland workitem-5772","ccc@bogus.net","Project A - new lunch POZNAN, Poland (18)",
+411,"Story","Confirm seating","Confirm seating","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+412,"Story","Check menu","Check menu","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+413,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-5772","ccc@bogus.net",,
+414,"Story","split check","split check","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+415,"Story","check tip","check tip","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+416,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+417,"Story","Leave place","Leave place","country-Poland workitem-5772","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+418,"Epic","Project A - late dinner PORTO SALVO, Portugal (19)","Project A - late dinner PORTO SALVO, Portugal (19)","country-Portugal workitem-5883","ccc@bogus.net","Project A - late dinner PORTO SALVO, Portugal (19)",
+419,"Story","Confirm seating","Confirm seating","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+420,"Story","Check menu","Check menu","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+421,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-5883","ccc@bogus.net",,
+422,"Story","split check","split check","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+423,"Story","check tip","check tip","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+424,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+425,"Story","Leave place","Leave place","country-Portugal workitem-5883","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+426,"Epic","Project A - late dinner LISBOA, Portugal (20)","Project A - late dinner LISBOA, Portugal (20)","country-Portugal workitem-5994","ccc@bogus.net","Project A - late dinner LISBOA, Portugal (20)",
+427,"Story","Confirm seating","Confirm seating","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+428,"Story","Check menu","Check menu","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+429,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-5994","ccc@bogus.net",,
+430,"Story","split check","split check","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+431,"Story","check tip","check tip","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+432,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+433,"Story","Leave place","Leave place","country-Portugal workitem-5994","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+434,"Epic","Project A - burger joint PORTO, Portugal (21)","Project A - burger joint PORTO, Portugal (21)","country-Portugal workitem-6105","aaa@bogus.net","Project A - burger joint PORTO, Portugal (21)",
+435,"Story","Confirm seating","Confirm seating","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+436,"Story","Check menu","Check menu","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+437,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-6105","aaa@bogus.net",,
+438,"Story","split check","split check","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+439,"Story","check tip","check tip","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+440,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+441,"Story","Leave place","Leave place","country-Portugal workitem-6105","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+442,"Epic","Project A - burger joint BELGRADE, Serbia (22)","Project A - burger joint BELGRADE, Serbia (22)","country-Serbia workitem-6216","aaa@bogus.net","Project A - burger joint BELGRADE, Serbia (22)",
+443,"Story","Confirm seating","Confirm seating","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+444,"Story","Check menu","Check menu","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+445,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Serbia workitem-6216","aaa@bogus.net",,
+446,"Story","split check","split check","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+447,"Story","check tip","check tip","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+448,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+449,"Story","Leave place","Leave place","country-Serbia workitem-6216","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+450,"Epic","Project A - late dinner Ljubljana, Slovenia (23)","Project A - late dinner Ljubljana, Slovenia (23)","country-Slovenia workitem-6327","aaa@bogus.net","Project A - late dinner Ljubljana, Slovenia (23)",
+451,"Story","Confirm seating","Confirm seating","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+452,"Story","Check menu","Check menu","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+453,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Slovenia workitem-6327","aaa@bogus.net",,
+454,"Story","split check","split check","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+455,"Story","check tip","check tip","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+456,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+457,"Story","Leave place","Leave place","country-Slovenia workitem-6327","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+458,"Epic","Project A - late dinner LA CORUNA, Spain (24)","Project A - late dinner LA CORUNA, Spain (24)","country-Spain workitem-6438","bbb@bogus.net","Project A - late dinner LA CORUNA, Spain (24)",
+459,"Story","Confirm seating","Confirm seating","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+460,"Story","Check menu","Check menu","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+461,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-6438","bbb@bogus.net",,
+462,"Story","split check","split check","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+463,"Story","check tip","check tip","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+464,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+465,"Story","Leave place","Leave place","country-Spain workitem-6438","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+466,"Epic","Project A - salad Preston, United Kingdom (25)","Project A - salad Preston, United Kingdom (25)","country-United Kingdom workitem-6549","bbb@bogus.net","Project A - salad Preston, United Kingdom (25)",
+467,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+468,"Story","Check menu","Check menu","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+469,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-6549","bbb@bogus.net",,
+470,"Story","split check","split check","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+471,"Story","check tip","check tip","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+472,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+473,"Story","Leave place","Leave place","country-United Kingdom workitem-6549","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+474,"Epic","Project A - new lunch WOKING, United Kingdom (26)","Project A - new lunch WOKING, United Kingdom (26)","country-United Kingdom workitem-6660","bbb@bogus.net","Project A - new lunch WOKING, United Kingdom (26)",
+475,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+476,"Story","Check menu","Check menu","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+477,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-6660","bbb@bogus.net",,
+478,"Story","split check","split check","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+479,"Story","check tip","check tip","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+480,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+481,"Story","Leave place","Leave place","country-United Kingdom workitem-6660","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+482,"Epic","Project A - new lunch MILTON KEYNES, United Kingdom (27)","Project A - new lunch MILTON KEYNES, United Kingdom (27)","country-United Kingdom workitem-6771","bbb@bogus.net","Project A - new lunch MILTON KEYNES, United Kingdom (27)",
+483,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+484,"Story","Check menu","Check menu","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+485,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-6771","bbb@bogus.net",,
+486,"Story","split check","split check","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+487,"Story","check tip","check tip","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+488,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+489,"Story","Leave place","Leave place","country-United Kingdom workitem-6771","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+490,"Epic","Project A - late dinner Boigny, France (28)","Project A - late dinner Boigny, France (28)","country-France workitem-6882","bbb@bogus.net","Project A - late dinner Boigny, France (28)",
+491,"Story","Confirm seating","Confirm seating","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+492,"Story","Check menu","Check menu","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+493,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-6882","bbb@bogus.net",,
+494,"Story","split check","split check","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+495,"Story","check tip","check tip","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+496,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+497,"Story","Leave place","Leave place","country-France workitem-6882","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+498,"Epic","Project A - late dinner Padova, Italy (29)","Project A - late dinner Padova, Italy (29)","country-Italy workitem-6993","bbb@bogus.net","Project A - late dinner Padova, Italy (29)",
+499,"Story","Confirm seating","Confirm seating","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+500,"Story","Check menu","Check menu","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+501,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-6993","bbb@bogus.net",,
+502,"Story","split check","split check","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+503,"Story","check tip","check tip","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+504,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+505,"Story","Leave place","Leave place","country-Italy workitem-6993","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+506,"Epic","Project A - burger joint Casablanca, Morocco (30)","Project A - burger joint Casablanca, Morocco (30)","country-Morocco workitem-7104","bbb@bogus.net","Project A - burger joint Casablanca, Morocco (30)",
+507,"Story","Confirm seating","Confirm seating","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+508,"Story","Check menu","Check menu","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+509,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Morocco workitem-7104","bbb@bogus.net",,
+510,"Story","split check","split check","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+511,"Story","check tip","check tip","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+512,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+513,"Story","Leave place","Leave place","country-Morocco workitem-7104","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+514,"Epic","Project A - burger joint Madrid, Spain (31)","Project A - burger joint Madrid, Spain (31)","country-Spain workitem-7215","ccc@bogus.net","Project A - burger joint Madrid, Spain (31)",
+515,"Story","Confirm seating","Confirm seating","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+516,"Story","Check menu","Check menu","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+517,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-7215","ccc@bogus.net",,
+518,"Story","split check","split check","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+519,"Story","check tip","check tip","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+520,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+521,"Story","Leave place","Leave place","country-Spain workitem-7215","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+522,"Epic","Project A - late dinner Brasow, Romania (32)","Project A - late dinner Brasow, Romania (32)","country-Romania workitem-7326","ccc@bogus.net","Project A - late dinner Brasow, Romania (32)",
+523,"Story","Confirm seating","Confirm seating","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+524,"Story","Check menu","Check menu","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+525,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Romania workitem-7326","ccc@bogus.net",,
+526,"Story","split check","split check","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+527,"Story","check tip","check tip","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+528,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+529,"Story","Leave place","Leave place","country-Romania workitem-7326","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+530,"Epic","Project A - late dinner Zagreb, Croatia (33)","Project A - late dinner Zagreb, Croatia (33)","country-Croatia workitem-7437","ccc@bogus.net","Project A - late dinner Zagreb, Croatia (33)",
+531,"Story","Confirm seating","Confirm seating","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+532,"Story","Check menu","Check menu","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+533,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Croatia workitem-7437","ccc@bogus.net",,
+534,"Story","split check","split check","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+535,"Story","check tip","check tip","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+536,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+537,"Story","Leave place","Leave place","country-Croatia workitem-7437","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
+538,"Epic","Project A - salad Sofia, Bulgaria (34)","Project A - salad Sofia, Bulgaria (34)","country-Bulgaria workitem-7548","bbb@bogus.net","Project A - salad Sofia, Bulgaria (34)",
+539,"Story","Confirm seating","Confirm seating","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+540,"Story","Check menu","Check menu","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+541,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Bulgaria workitem-7548","bbb@bogus.net",,
+542,"Story","split check","split check","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+543,"Story","check tip","check tip","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+544,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+545,"Story","Leave place","Leave place","country-Bulgaria workitem-7548","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+546,"Epic","Project A - new lunch Luanda, Angola (1)","Project A - new lunch Luanda, Angola (1)","country-Angola workitem-7659","aaa@bogus.net","Project A - new lunch Luanda, Angola (1)",
+547,"Story","Confirm seating","Confirm seating","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+548,"Story","Check menu","Check menu","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+549,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Angola workitem-7659","aaa@bogus.net",,
+550,"Story","split check","split check","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+551,"Story","check tip","check tip","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+552,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+553,"Story","Leave place","Leave place","country-Angola workitem-7659","aaa@bogus.net",,"Project A - new lunch Luanda, Angola (1)"
+554,"Epic","Project A - new lunch Wien, Austria (2)","Project A - new lunch Wien, Austria (2)","country-Austria workitem-7770","aaa@bogus.net","Project A - new lunch Wien, Austria (2)",
+555,"Story","Confirm seating","Confirm seating","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+556,"Story","Check menu","Check menu","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+557,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-7770","aaa@bogus.net",,
+558,"Story","split check","split check","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+559,"Story","check tip","check tip","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+560,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+561,"Story","Leave place","Leave place","country-Austria workitem-7770","aaa@bogus.net",,"Project A - new lunch Wien, Austria (2)"
+562,"Epic","Project A - new lunch WIEN, Austria (3)","Project A - new lunch WIEN, Austria (3)","country-Austria workitem-7881","aaa@bogus.net","Project A - new lunch WIEN, Austria (3)",
+563,"Story","Confirm seating","Confirm seating","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+564,"Story","Check menu","Check menu","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+565,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-7881","aaa@bogus.net",,
+566,"Story","split check","split check","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+567,"Story","check tip","check tip","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+568,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+569,"Story","Leave place","Leave place","country-Austria workitem-7881","aaa@bogus.net",,"Project A - new lunch WIEN, Austria (3)"
+570,"Epic","Project A - new lunch Wels, Austria (4)","Project A - new lunch Wels, Austria (4)","country-Austria workitem-7992","aaa@bogus.net","Project A - new lunch Wels, Austria (4)",
+571,"Story","Confirm seating","Confirm seating","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+572,"Story","Check menu","Check menu","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+573,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Austria workitem-7992","aaa@bogus.net",,
+574,"Story","split check","split check","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+575,"Story","check tip","check tip","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+576,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+577,"Story","Leave place","Leave place","country-Austria workitem-7992","aaa@bogus.net",,"Project A - new lunch Wels, Austria (4)"
+578,"Epic","Project A - new lunch Praha, Czech Republic (5)","Project A - new lunch Praha, Czech Republic (5)","country-Czech Republic workitem-8103","aaa@bogus.net","Project A - new lunch Praha, Czech Republic (5)",
+579,"Story","Confirm seating","Confirm seating","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+580,"Story","Check menu","Check menu","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+581,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Czech Republic workitem-8103","aaa@bogus.net",,
+582,"Story","split check","split check","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+583,"Story","check tip","check tip","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+584,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+585,"Story","Leave place","Leave place","country-Czech Republic workitem-8103","aaa@bogus.net",,"Project A - new lunch Praha, Czech Republic (5)"
+586,"Epic","Project A - late dinner HELSINKI, Finland (6)","Project A - late dinner HELSINKI, Finland (6)","country-Finland workitem-8214","aaa@bogus.net","Project A - late dinner HELSINKI, Finland (6)",
+587,"Story","Confirm seating","Confirm seating","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+588,"Story","Check menu","Check menu","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+589,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Finland workitem-8214","aaa@bogus.net",,
+590,"Story","split check","split check","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+591,"Story","check tip","check tip","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+592,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+593,"Story","Leave place","Leave place","country-Finland workitem-8214","aaa@bogus.net",,"Project A - late dinner HELSINKI, Finland (6)"
+594,"Epic","Project A - late dinner CLERMONT-FERRAND, France (7)","Project A - late dinner CLERMONT-FERRAND, France (7)","country-France workitem-8325","aaa@bogus.net","Project A - late dinner CLERMONT-FERRAND, France (7)",
+595,"Story","Confirm seating","Confirm seating","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+596,"Story","Check menu","Check menu","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+597,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8325","aaa@bogus.net",,
+598,"Story","split check","split check","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+599,"Story","check tip","check tip","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+600,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+601,"Story","Leave place","Leave place","country-France workitem-8325","aaa@bogus.net",,"Project A - late dinner CLERMONT-FERRAND, France (7)"
+602,"Epic","Project A - late dinner Nice, France (8)","Project A - late dinner Nice, France (8)","country-France workitem-8436","bbb@bogus.net","Project A - late dinner Nice, France (8)",
+603,"Story","Confirm seating","Confirm seating","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+604,"Story","Check menu","Check menu","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+605,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8436","bbb@bogus.net",,
+606,"Story","split check","split check","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+607,"Story","check tip","check tip","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+608,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+609,"Story","Leave place","Leave place","country-France workitem-8436","bbb@bogus.net",,"Project A - late dinner Nice, France (8)"
+610,"Epic","Project A - late dinner MARSEILLE, France (9)","Project A - late dinner MARSEILLE, France (9)","country-France workitem-8547","bbb@bogus.net","Project A - late dinner MARSEILLE, France (9)",
+611,"Story","Confirm seating","Confirm seating","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+612,"Story","Check menu","Check menu","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+613,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8547","bbb@bogus.net",,
+614,"Story","split check","split check","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+615,"Story","check tip","check tip","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+616,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+617,"Story","Leave place","Leave place","country-France workitem-8547","bbb@bogus.net",,"Project A - late dinner MARSEILLE, France (9)"
+618,"Epic","Project A - burger joint MONT SAINT AIGNAN, France (10)","Project A - burger joint MONT SAINT AIGNAN, France (10)","country-France workitem-8658","bbb@bogus.net","Project A - burger joint MONT SAINT AIGNAN, France (10)",
+619,"Story","Confirm seating","Confirm seating","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+620,"Story","Check menu","Check menu","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+621,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8658","bbb@bogus.net",,
+622,"Story","split check","split check","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+623,"Story","check tip","check tip","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+624,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+625,"Story","Leave place","Leave place","country-France workitem-8658","bbb@bogus.net",,"Project A - burger joint MONT SAINT AIGNAN, France (10)"
+626,"Epic","Project A - burger joint GRABELS, France (11)","Project A - burger joint GRABELS, France (11)","country-France workitem-8769","bbb@bogus.net","Project A - burger joint GRABELS, France (11)",
+627,"Story","Confirm seating","Confirm seating","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+628,"Story","Check menu","Check menu","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+629,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8769","bbb@bogus.net",,
+630,"Story","split check","split check","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+631,"Story","check tip","check tip","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+632,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+633,"Story","Leave place","Leave place","country-France workitem-8769","bbb@bogus.net",,"Project A - burger joint GRABELS, France (11)"
+634,"Epic","Project A - late dinner GERZAT, France (12)","Project A - late dinner GERZAT, France (12)","country-France workitem-8880","bbb@bogus.net","Project A - late dinner GERZAT, France (12)",
+635,"Story","Confirm seating","Confirm seating","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+636,"Story","Check menu","Check menu","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+637,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-8880","bbb@bogus.net",,
+638,"Story","split check","split check","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+639,"Story","check tip","check tip","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+640,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+641,"Story","Leave place","Leave place","country-France workitem-8880","bbb@bogus.net",,"Project A - late dinner GERZAT, France (12)"
+642,"Epic","Project A - late dinner Torino, Italy (13)","Project A - late dinner Torino, Italy (13)","country-Italy workitem-8991","bbb@bogus.net","Project A - late dinner Torino, Italy (13)",
+643,"Story","Confirm seating","Confirm seating","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+644,"Story","Check menu","Check menu","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+645,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-8991","bbb@bogus.net",,
+646,"Story","split check","split check","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+647,"Story","check tip","check tip","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+648,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+649,"Story","Leave place","Leave place","country-Italy workitem-8991","bbb@bogus.net",,"Project A - late dinner Torino, Italy (13)"
+650,"Epic","Project A - salad GENOVA, Italy (14)","Project A - salad GENOVA, Italy (14)","country-Italy workitem-9102","bbb@bogus.net","Project A - salad GENOVA, Italy (14)",
+651,"Story","Confirm seating","Confirm seating","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+652,"Story","Check menu","Check menu","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+653,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-9102","bbb@bogus.net",,
+654,"Story","split check","split check","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+655,"Story","check tip","check tip","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+656,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+657,"Story","Leave place","Leave place","country-Italy workitem-9102","bbb@bogus.net",,"Project A - salad GENOVA, Italy (14)"
+658,"Epic","Project A - new lunch LAGOS, Nigeria (15)","Project A - new lunch LAGOS, Nigeria (15)","country-Nigeria workitem-9213","ccc@bogus.net","Project A - new lunch LAGOS, Nigeria (15)",
+659,"Story","Confirm seating","Confirm seating","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+660,"Story","Check menu","Check menu","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+661,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Nigeria workitem-9213","ccc@bogus.net",,
+662,"Story","split check","split check","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+663,"Story","check tip","check tip","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+664,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+665,"Story","Leave place","Leave place","country-Nigeria workitem-9213","ccc@bogus.net",,"Project A - new lunch LAGOS, Nigeria (15)"
+666,"Epic","Project A - new lunch ISLAMABAD, Pakistan (16)","Project A - new lunch ISLAMABAD, Pakistan (16)","country-Pakistan workitem-9324","ccc@bogus.net","Project A - new lunch ISLAMABAD, Pakistan (16)",
+667,"Story","Confirm seating","Confirm seating","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+668,"Story","Check menu","Check menu","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+669,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Pakistan workitem-9324","ccc@bogus.net",,
+670,"Story","split check","split check","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+671,"Story","check tip","check tip","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+672,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+673,"Story","Leave place","Leave place","country-Pakistan workitem-9324","ccc@bogus.net",,"Project A - new lunch ISLAMABAD, Pakistan (16)"
+674,"Epic","Project A - new lunch BLONIE, Poland (17)","Project A - new lunch BLONIE, Poland (17)","country-Poland workitem-9435","ccc@bogus.net","Project A - new lunch BLONIE, Poland (17)",
+675,"Story","Confirm seating","Confirm seating","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+676,"Story","Check menu","Check menu","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+677,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-9435","ccc@bogus.net",,
+678,"Story","split check","split check","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+679,"Story","check tip","check tip","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+680,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+681,"Story","Leave place","Leave place","country-Poland workitem-9435","ccc@bogus.net",,"Project A - new lunch BLONIE, Poland (17)"
+682,"Epic","Project A - new lunch POZNAN, Poland (18)","Project A - new lunch POZNAN, Poland (18)","country-Poland workitem-9546","ccc@bogus.net","Project A - new lunch POZNAN, Poland (18)",
+683,"Story","Confirm seating","Confirm seating","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+684,"Story","Check menu","Check menu","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+685,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Poland workitem-9546","ccc@bogus.net",,
+686,"Story","split check","split check","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+687,"Story","check tip","check tip","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+688,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+689,"Story","Leave place","Leave place","country-Poland workitem-9546","ccc@bogus.net",,"Project A - new lunch POZNAN, Poland (18)"
+690,"Epic","Project A - late dinner PORTO SALVO, Portugal (19)","Project A - late dinner PORTO SALVO, Portugal (19)","country-Portugal workitem-9657","ccc@bogus.net","Project A - late dinner PORTO SALVO, Portugal (19)",
+691,"Story","Confirm seating","Confirm seating","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+692,"Story","Check menu","Check menu","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+693,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-9657","ccc@bogus.net",,
+694,"Story","split check","split check","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+695,"Story","check tip","check tip","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+696,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+697,"Story","Leave place","Leave place","country-Portugal workitem-9657","ccc@bogus.net",,"Project A - late dinner PORTO SALVO, Portugal (19)"
+698,"Epic","Project A - late dinner LISBOA, Portugal (20)","Project A - late dinner LISBOA, Portugal (20)","country-Portugal workitem-9768","ccc@bogus.net","Project A - late dinner LISBOA, Portugal (20)",
+699,"Story","Confirm seating","Confirm seating","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+700,"Story","Check menu","Check menu","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+701,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-9768","ccc@bogus.net",,
+702,"Story","split check","split check","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+703,"Story","check tip","check tip","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+704,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+705,"Story","Leave place","Leave place","country-Portugal workitem-9768","ccc@bogus.net",,"Project A - late dinner LISBOA, Portugal (20)"
+706,"Epic","Project A - burger joint PORTO, Portugal (21)","Project A - burger joint PORTO, Portugal (21)","country-Portugal workitem-9879","aaa@bogus.net","Project A - burger joint PORTO, Portugal (21)",
+707,"Story","Confirm seating","Confirm seating","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+708,"Story","Check menu","Check menu","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+709,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Portugal workitem-9879","aaa@bogus.net",,
+710,"Story","split check","split check","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+711,"Story","check tip","check tip","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+712,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+713,"Story","Leave place","Leave place","country-Portugal workitem-9879","aaa@bogus.net",,"Project A - burger joint PORTO, Portugal (21)"
+714,"Epic","Project A - burger joint BELGRADE, Serbia (22)","Project A - burger joint BELGRADE, Serbia (22)","country-Serbia workitem-9990","aaa@bogus.net","Project A - burger joint BELGRADE, Serbia (22)",
+715,"Story","Confirm seating","Confirm seating","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+716,"Story","Check menu","Check menu","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+717,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Serbia workitem-9990","aaa@bogus.net",,
+718,"Story","split check","split check","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+719,"Story","check tip","check tip","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+720,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+721,"Story","Leave place","Leave place","country-Serbia workitem-9990","aaa@bogus.net",,"Project A - burger joint BELGRADE, Serbia (22)"
+722,"Epic","Project A - late dinner Ljubljana, Slovenia (23)","Project A - late dinner Ljubljana, Slovenia (23)","country-Slovenia workitem-10101","aaa@bogus.net","Project A - late dinner Ljubljana, Slovenia (23)",
+723,"Story","Confirm seating","Confirm seating","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+724,"Story","Check menu","Check menu","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+725,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Slovenia workitem-10101","aaa@bogus.net",,
+726,"Story","split check","split check","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+727,"Story","check tip","check tip","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+728,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+729,"Story","Leave place","Leave place","country-Slovenia workitem-10101","aaa@bogus.net",,"Project A - late dinner Ljubljana, Slovenia (23)"
+730,"Epic","Project A - late dinner LA CORUNA, Spain (24)","Project A - late dinner LA CORUNA, Spain (24)","country-Spain workitem-10212","bbb@bogus.net","Project A - late dinner LA CORUNA, Spain (24)",
+731,"Story","Confirm seating","Confirm seating","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+732,"Story","Check menu","Check menu","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+733,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-10212","bbb@bogus.net",,
+734,"Story","split check","split check","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+735,"Story","check tip","check tip","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+736,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+737,"Story","Leave place","Leave place","country-Spain workitem-10212","bbb@bogus.net",,"Project A - late dinner LA CORUNA, Spain (24)"
+738,"Epic","Project A - salad Preston, United Kingdom (25)","Project A - salad Preston, United Kingdom (25)","country-United Kingdom workitem-10323","bbb@bogus.net","Project A - salad Preston, United Kingdom (25)",
+739,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+740,"Story","Check menu","Check menu","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+741,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-10323","bbb@bogus.net",,
+742,"Story","split check","split check","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+743,"Story","check tip","check tip","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+744,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+745,"Story","Leave place","Leave place","country-United Kingdom workitem-10323","bbb@bogus.net",,"Project A - salad Preston, United Kingdom (25)"
+746,"Epic","Project A - new lunch WOKING, United Kingdom (26)","Project A - new lunch WOKING, United Kingdom (26)","country-United Kingdom workitem-10434","bbb@bogus.net","Project A - new lunch WOKING, United Kingdom (26)",
+747,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+748,"Story","Check menu","Check menu","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+749,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-10434","bbb@bogus.net",,
+750,"Story","split check","split check","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+751,"Story","check tip","check tip","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+752,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+753,"Story","Leave place","Leave place","country-United Kingdom workitem-10434","bbb@bogus.net",,"Project A - new lunch WOKING, United Kingdom (26)"
+754,"Epic","Project A - new lunch MILTON KEYNES, United Kingdom (27)","Project A - new lunch MILTON KEYNES, United Kingdom (27)","country-United Kingdom workitem-10545","bbb@bogus.net","Project A - new lunch MILTON KEYNES, United Kingdom (27)",
+755,"Story","Confirm seating","Confirm seating","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+756,"Story","Check menu","Check menu","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+757,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-United Kingdom workitem-10545","bbb@bogus.net",,
+758,"Story","split check","split check","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+759,"Story","check tip","check tip","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+760,"Story","wait for those who don't have cash","wait for those who don't have cash","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+761,"Story","Leave place","Leave place","country-United Kingdom workitem-10545","bbb@bogus.net",,"Project A - new lunch MILTON KEYNES, United Kingdom (27)"
+762,"Epic","Project A - late dinner Boigny, France (28)","Project A - late dinner Boigny, France (28)","country-France workitem-10656","bbb@bogus.net","Project A - late dinner Boigny, France (28)",
+763,"Story","Confirm seating","Confirm seating","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+764,"Story","Check menu","Check menu","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+765,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-France workitem-10656","bbb@bogus.net",,
+766,"Story","split check","split check","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+767,"Story","check tip","check tip","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+768,"Story","wait for those who don't have cash","wait for those who don't have cash","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+769,"Story","Leave place","Leave place","country-France workitem-10656","bbb@bogus.net",,"Project A - late dinner Boigny, France (28)"
+770,"Epic","Project A - late dinner Padova, Italy (29)","Project A - late dinner Padova, Italy (29)","country-Italy workitem-10767","bbb@bogus.net","Project A - late dinner Padova, Italy (29)",
+771,"Story","Confirm seating","Confirm seating","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+772,"Story","Check menu","Check menu","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+773,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Italy workitem-10767","bbb@bogus.net",,
+774,"Story","split check","split check","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+775,"Story","check tip","check tip","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+776,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+777,"Story","Leave place","Leave place","country-Italy workitem-10767","bbb@bogus.net",,"Project A - late dinner Padova, Italy (29)"
+778,"Epic","Project A - burger joint Casablanca, Morocco (30)","Project A - burger joint Casablanca, Morocco (30)","country-Morocco workitem-10878","bbb@bogus.net","Project A - burger joint Casablanca, Morocco (30)",
+779,"Story","Confirm seating","Confirm seating","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+780,"Story","Check menu","Check menu","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+781,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Morocco workitem-10878","bbb@bogus.net",,
+782,"Story","split check","split check","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+783,"Story","check tip","check tip","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+784,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+785,"Story","Leave place","Leave place","country-Morocco workitem-10878","bbb@bogus.net",,"Project A - burger joint Casablanca, Morocco (30)"
+786,"Epic","Project A - burger joint Madrid, Spain (31)","Project A - burger joint Madrid, Spain (31)","country-Spain workitem-10989","ccc@bogus.net","Project A - burger joint Madrid, Spain (31)",
+787,"Story","Confirm seating","Confirm seating","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+788,"Story","Check menu","Check menu","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+789,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Spain workitem-10989","ccc@bogus.net",,
+790,"Story","split check","split check","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+791,"Story","check tip","check tip","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+792,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+793,"Story","Leave place","Leave place","country-Spain workitem-10989","ccc@bogus.net",,"Project A - burger joint Madrid, Spain (31)"
+794,"Epic","Project A - late dinner Brasow, Romania (32)","Project A - late dinner Brasow, Romania (32)","country-Romania workitem-11100","ccc@bogus.net","Project A - late dinner Brasow, Romania (32)",
+795,"Story","Confirm seating","Confirm seating","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+796,"Story","Check menu","Check menu","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+797,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Romania workitem-11100","ccc@bogus.net",,
+798,"Story","split check","split check","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+799,"Story","check tip","check tip","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+800,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"
+801,"Story","Leave place","Leave place","country-Romania workitem-11100","ccc@bogus.net",,"Project A - late dinner Brasow, Romania (32)"

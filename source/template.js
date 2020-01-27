@@ -36,7 +36,7 @@ class Template {
         "Labels": this.format(templateRow["Labels"],row)
       }
       if (templateRow['Assignee']) {
-        issue['Assignee'] = templateRow['Assignee']
+        issue['Assignee'] = this.format(templateRow['Assignee'],row)
       }
       switch (issue['Issue Type'].toLowerCase()) {
         case 'epic':
