@@ -63,8 +63,14 @@ class Main {
         defaultValue: false
       }
     ]
+
+    let cmd = 'xlsTemplate2Jira'
+    if(process.platform == 'darwin') {
+      cmd = './xlsTemplate2Jira'
+    }
+
     this.usage = [{
-        header: `${appInfo.name} v${appInfo.version}`,
+        header: `${appInfo.name} v${appInfo.version} by ${appInfo.author}`,
         content: appInfo.description
       }, {
         header: 'Options',
@@ -72,7 +78,7 @@ class Main {
       },
       {
         header: 'Example',
-        content: 'node app -i ./test/data.xlsx -t ./test/template.xlsx -o ./test/output.csv'
+        content: `${cmd} -i ./test/data.xlsx -t ./test/template.xlsx -o ./test/output.csv`
       }
     ]
     this.options = commandLineArgs(this.optionDefinitions)
