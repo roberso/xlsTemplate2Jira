@@ -18,7 +18,7 @@ class Template {
     let workbook = XLSX.readFile(this.source);
     let keys = Object.keys(workbook.Sheets)
     this.data = workbook.Sheets[keys[0]];
-    this.rows = this.util.sheet2Array(this.data, this.skip,true)
+    this.rows = this.util.sheet2Array(this.data, this.skip, true)
     return this.rows
   }
 
@@ -27,49 +27,61 @@ class Template {
     let lastStory = ''
 
     this.rows.forEach(templateRow => {
-      this.id++
-      let issue = {
-        "Issue ID": this.id,
-        "Issue Type": templateRow['Type'],
-        "Summary": this.format(templateRow['Summary'],row),
-        "Description": this.format(templateRow['Summary'],row),
-        "Labels": this.format(templateRow["Labels"],row)
+      try {
+        this.id++
+        let issue = {
+          "Issue ID": this.id,
+        }
+
+        let keys = Object.keys(templateRow)
+        keys.forEach(t => {
+          issue[t] = this.format(templateRow[t],row)
+        })
+
+        switch (issue['Issue Type'].toLowerCase()) {
+          case 'epic':
+            issue["Epic Name"] = issue["Summary"]
+            issue["Issue Type"] = "Epic"
+            lastEpic = issue["Summary"]
+            break
+          case 'story':
+            lastStory = this.id
+            issue["Epic Link"] = lastEpic
+            issue["Issue Type"] = "Story"
+            break
+          case 'sub-task':
+          case 'subtask':
+            issue["Parent ID"] = lastStory
+            issue["Issue Type"] = "Sub-task"
+            break
+        }
+        output.push(issue)
+      } catch (err) {
+        this.log.error(`trying to build for row`, err)
       }
-      if (templateRow['Assignee']) {
-        issue['Assignee'] = this.format(templateRow['Assignee'],row)
-      }
-      switch (issue['Issue Type'].toLowerCase()) {
-        case 'epic':
-          issue["Epic Name"] = issue["Summary"]
-          issue["Issue Type"] = "Epic"
-          lastEpic = issue["Summary"]
-          break
-        case 'story':
-          lastStory = this.id
-          issue["Epic Link"] = lastEpic
-          issue["Issue Type"] = "Story"
-          break
-        case 'sub-task':
-        case 'Subtask':
-          issue["Parent ID"] = lastStory
-          issue["Issue Type"] = "Subtask"
-          break
-      }
-      output.push(issue)
     })
+
   }
 
-  format(form,row) {
+  format(form, row) {
     let rc = form
-    let keys = Object.keys(row)
-    let reg = null
-    keys.forEach(k => {
-      reg = new RegExp(`{{${k}}}`,'g')
-      rc = rc.replace(reg,row[k])
-    })
+    if (form) {
+      let keys = Object.keys(row)
+      let reg = null
+      keys.forEach(k => {
+        reg = new RegExp(`{{${k}}}`, 'g')
+        let v = row[k]
+        if(!v) {
+          v = ''
+        }
+        rc = rc.replace(reg, v)
+      })
 
-    reg = new RegExp('{{[A-Z]+}}','g')
-    rc = rc.replace(reg,'undefined')
+      reg = new RegExp('{{[A-Z]+}}', 'g')
+      rc = rc.replace(reg, '')
+    } else {
+      rc = ''
+    }
     return rc
   }
 }

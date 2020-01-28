@@ -65,7 +65,7 @@ class Main {
     ]
 
     let cmd = 'xlsTemplate2Jira'
-    if(process.platform == 'darwin') {
+    if (process.platform == 'darwin') {
       cmd = './xlsTemplate2Jira'
     }
 
@@ -112,7 +112,8 @@ class Main {
       this.log.info(`loading input data ${this.options.input}...`)
       this.data.load()
       this.log.info(`combining information...`)
-      this.data.getRows().forEach(row => {
+      let rows = this.data.getRows()
+      rows.forEach(row => {
         this.template.build(row, output)
       })
 
@@ -187,21 +188,21 @@ class Main {
   }
 
   writeCSV(seg) {
-    return new Promise((resolve,reject) => {
-    const file = this.buildCSVFileName(seg.id)
-    const json2csvParser = new Parser()
-    const csv = json2csvParser.parse(seg.list)
+    return new Promise((resolve, reject) => {
+      const file = this.buildCSVFileName(seg.id)
+      const json2csvParser = new Parser()
+      const csv = json2csvParser.parse(seg.list)
 
-    fs.writeFile(file, csv, 'UTF-8', (err) => {
-      if (err) {
-        this.log.error(`failed writing ${file}`, err)
-        reject(err)
-      } else {
-        this.log.info(`  ${file}`)
-        resolve(true)
-      }
+      fs.writeFile(file, csv, 'UTF-8', (err) => {
+        if (err) {
+          this.log.error(`failed writing ${file}`, err)
+          reject(err)
+        } else {
+          this.log.info(`  ${file}`)
+          resolve(true)
+        }
+      })
     })
-  })
   }
 
   run() {

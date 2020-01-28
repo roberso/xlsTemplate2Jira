@@ -5,7 +5,7 @@
   "main": "app.js",
   "bin": "app.js",
   "scripts": {
-    "test": "nnode app -i ./test/data.xlsx -t ./test/template.xlsx -o ./test/output.csv",
+    "test": "node app -i ./test/data.xlsx -t ./test/template.xlsx -o ./test/output.csv",
     "build": "npm run build-win && npm run build-mac",
     "build-win": "pkg . --targets node12-win --output ./bin/xlsTemplate2Jira.exe && chmod a+x ./bin/xlsTemplate2Jira.exe",
     "build-mac": "pkg . --targets node12-macos-x64 --output ./bin/xlsTemplate2Jira && chmod a+x ./bin/xlsTemplate2Jira"

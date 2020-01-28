@@ -1,17 +1,19 @@
-"Issue ID","Issue Type","Summary","Description","Labels","Assignee","Epic Name","Epic Link"
-802,"Epic","Project A - late dinner Zagreb, Croatia (33)","Project A - late dinner Zagreb, Croatia (33)","country-Croatia workitem-11211","ccc@bogus.net","Project A - late dinner Zagreb, Croatia (33)",
-803,"Story","Confirm seating","Confirm seating","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-804,"Story","Check menu","Check menu","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-805,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Croatia workitem-11211","ccc@bogus.net",,
-806,"Story","split check","split check","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-807,"Story","check tip","check tip","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-808,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-809,"Story","Leave place","Leave place","country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (33)"
-810,"Epic","Project A - salad Sofia, Bulgaria (34)","Project A - salad Sofia, Bulgaria (34)","country-Bulgaria workitem-11322","bbb@bogus.net","Project A - salad Sofia, Bulgaria (34)",
-811,"Story","Confirm seating","Confirm seating","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
-812,"Story","Check menu","Check menu","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
-813,"subtask","Check with suzie on vegan","Check with suzie on vegan","country-Bulgaria workitem-11322","bbb@bogus.net",,
-814,"Story","split check","split check","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
-815,"Story","check tip","check tip","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
-816,"Story","wait for those who don't have cash","wait for those who don't have cash","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
-817,"Story","Leave place","Leave place","country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (34)"
+"Issue ID","Issue Type","Summary","Description","Labels","Assignee","Epic Name","Epic Link","Parent ID"
+802,"Epic","Project A - late dinner Zagreb, Croatia (11211)","Do Project A late dinner work for Zagreb, Croatia (33)
+Hope someplace good","country-Croatia workitem-11211","ccc@bogus.net","Project A - late dinner Zagreb, Croatia (11211)",,
+803,"Story","Confirm seating",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+804,"Story","Check menu",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+805,"Sub-task","Check with suzie on vegan",,"country-Croatia workitem-11211","ccc@bogus.net",,,804
+806,"Story","split check",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+807,"Story","check tip",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+808,"Story","wait for those who don't have cash",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+809,"Story","Leave place",,"country-Croatia workitem-11211","ccc@bogus.net",,"Project A - late dinner Zagreb, Croatia (11211)",
+810,"Epic","Project A - salad Sofia, Bulgaria (11322)","Do Project A salad work for Sofia, Bulgaria (34)
+Hope someplace good","country-Bulgaria workitem-11322","bbb@bogus.net","Project A - salad Sofia, Bulgaria (11322)",,
+811,"Story","Confirm seating",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
+812,"Story","Check menu",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
+813,"Sub-task","Check with suzie on vegan",,"country-Bulgaria workitem-11322","bbb@bogus.net",,,812
+814,"Story","split check",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
+815,"Story","check tip",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
+816,"Story","wait for those who don't have cash",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
+817,"Story","Leave place",,"country-Bulgaria workitem-11322","bbb@bogus.net",,"Project A - salad Sofia, Bulgaria (11322)",
