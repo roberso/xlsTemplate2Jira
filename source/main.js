@@ -13,6 +13,7 @@ const {
 
 let appInfo = require('../package.json')
 let commandLineArgs = require("command-line-args")
+const commandLineUsage = require('command-line-usage')
 
 class Main {
   constructor() {
@@ -81,6 +82,7 @@ class Main {
         content: `${cmd} -i ./test/data.xlsx -t ./test/template.xlsx -o ./test/output.csv`
       }
     ]
+    this.validHeader = [this.usage[0]]
     this.options = commandLineArgs(this.optionDefinitions)
     this.jiraMax = 800
   }
@@ -97,8 +99,12 @@ class Main {
   }
 
   syntax() {
-    const commandLineUsage = require('command-line-usage')
     const usage = commandLineUsage(this.usage)
+    console.log(usage)
+  }
+
+  printHeader() {
+    const usage = commandLineUsage(this.validHeader)
     console.log(usage)
   }
 
@@ -207,6 +213,7 @@ class Main {
 
   run() {
     if (this.isValid()) {
+      this.printHeader()
       this.processRequest().then(() => {
         this.log.info('done')
       }).catch(() => {
