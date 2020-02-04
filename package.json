@@ -1,6 +1,6 @@
 {
   "name": "xlstemplate2jira",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Builds a Jira CSV import file from template and spreadsheet.",
   "main": "app.js",
   "bin": "app.js",
