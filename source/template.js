@@ -88,7 +88,7 @@ class Template {
       keys.forEach(k => {
         reg = new RegExp(`{{${k}}}`, 'g')
         let v = row[k]
-        if (!v) {
+        if (v == undefined) {
           v = ''
         }
         rc = rc.replace(reg, v)

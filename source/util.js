@@ -2,7 +2,7 @@ let convert = require('number-converter-alphabet')
 
 class Utility {
   getCellValue(cell) {
-    return cell ? cell.v : undefined;
+    return cell != undefined ? cell.v : undefined;
   }
 
   sheet2Array(sheet, skip, useFirstRow = false, emptyMax = 10) {
@@ -55,7 +55,7 @@ class Utility {
       let letter = this.getCell(i).toUpperCase()
       let cell = `${letter}${row}`
       let val = this.getCellValue(sheet[cell])
-      if (val) {
+      if (val != undefined) {
         let col = letter
         if (altHeader) {
           col = altHeader[offset]
@@ -63,9 +63,10 @@ class Utility {
             col = letter
           }
         }
-        rc[col] = val
         if(typeof val == 'string') {
           rc[col] = val.trim()
+        } else if (typeof val == 'number') {
+          rc[col] = val
         }
         empty = 0
       } else {
