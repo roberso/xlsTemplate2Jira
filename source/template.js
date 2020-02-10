@@ -15,22 +15,27 @@ class Template {
   }
 
   load() {
-    let workbook = XLSX.readFile(this.source);
-    let keys = Object.keys(workbook.Sheets)
-    this.data = workbook.Sheets[keys[0]];
-    this.rows = this.util.sheet2Array(this.data, this.skip, true)
-    this.validate(this.rows)
-    return this.rows
+    try {
+      let workbook = XLSX.readFile(this.source);
+      let keys = Object.keys(workbook.Sheets)
+      this.data = workbook.Sheets[keys[0]];
+      this.rows = this.util.sheet2Array(this.data, this.skip, true)
+      this.validate(this.rows)
+      return this.rows
+    } catch (err) {
+      this.log.error(`failure loading ${this.source}, please check to make sure file exists, has "Issue Type" and "Summary" columns, and is in xlsx format.`)
+      throw err
+    }
   }
 
   validate(rows) {
     let col = Object.keys(rows[0])
-    if(!col.includes("Issue Type")) {
+    if (!col.includes("Issue Type")) {
       this.log.error("Missing 'Issue Type' column in template, please correct and rerun tool.")
       process.exit(8)
-    } else if(!col.includes("Summary")) {
+    } else if (!col.includes("Summary")) {
       this.log.error("Missing 'Summary' column in template, please correct and rerun tool.")
-      process.exit(8)     
+      process.exit(8)
     }
   }
 
@@ -47,7 +52,7 @@ class Template {
 
         let keys = Object.keys(templateRow)
         keys.forEach(t => {
-          issue[t] = this.format(templateRow[t],row)
+          issue[t] = this.format(templateRow[t], row)
         })
 
         switch (issue['Issue Type'].toLowerCase()) {
@@ -83,7 +88,7 @@ class Template {
       keys.forEach(k => {
         reg = new RegExp(`{{${k}}}`, 'g')
         let v = row[k]
-        if(!v) {
+        if (!v) {
           v = ''
         }
         rc = rc.replace(reg, v)

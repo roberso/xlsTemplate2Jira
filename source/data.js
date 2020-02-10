@@ -15,11 +15,16 @@ class Data {
   }
 
   load() {
-    let workbook = XLSX.readFile(this.source);
-    let keys = Object.keys(workbook.Sheets)
-    this.data = workbook.Sheets[keys[this.tab]];
-    this.rows = this.util.sheet2Array(this.data, this.skip)
-    return this.rows
+    try {
+      let workbook = XLSX.readFile(this.source);
+      let keys = Object.keys(workbook.Sheets)
+      this.data = workbook.Sheets[keys[this.tab]];
+      this.rows = this.util.sheet2Array(this.data, this.skip)
+      return this.rows
+    } catch (err) {
+      this.log.error(`failure loading ${this.source}, please check to make sure file exists and is in xlsx format.`)
+      throw err
+    }
   }
 
   getRows() {
