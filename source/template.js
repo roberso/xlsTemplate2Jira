@@ -82,22 +82,26 @@ class Template {
 
   format(form, row) {
     let rc = form
-    if (form) {
-      let keys = Object.keys(row)
-      let reg = null
-      keys.forEach(k => {
-        reg = new RegExp(`{{${k}}}`, 'g')
-        let v = row[k]
-        if (v == undefined) {
-          v = ''
-        }
-        rc = rc.replace(reg, v)
-      })
+    if (typeof form == 'string') {
+      if (form) {
+        let keys = Object.keys(row)
+        let reg = null
+        keys.forEach(k => {
+          reg = new RegExp(`{{${k}}}`, 'g')
+          let v = row[k]
+          if (v == undefined) {
+            v = ''
+          }
+          if (typeof v == 'string') {
+            rc = rc.replace(reg, v)
+          }
+        })
 
-      reg = new RegExp('{{[A-Z]+}}', 'g')
-      rc = rc.replace(reg, '')
-    } else {
-      rc = ''
+        reg = new RegExp('{{[A-Z]+}}', 'g')
+        rc = rc.replace(reg, '')
+      } else {
+        rc = ''
+      }
     }
     return rc
   }
