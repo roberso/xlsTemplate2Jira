@@ -44,14 +44,14 @@ class Main {
         name: 'template',
         alias: 't',
         type: String,
-        description: 'The location of the template xlsx file that defines the structure of the jira items to create.  Example {bold -i ./test/template.xlsx}',
+        description: 'The location of the template xlsx file that defines the structure of the jira items to create.  Example {bold -t ./test/template.xlsx}',
         typeLabel: '{underline template}'
       },
       {
         name: 'output',
         alias: 'o',
         type: String,
-        description: 'The name of the file where you want the output CSV written.  Example {bold -i ./test/output.csv}',
+        description: 'The name of the file where you want the output CSV written.  Example {bold -o ./test/output.csv}',
         typeLabel: '{underline output}'
       },
 
