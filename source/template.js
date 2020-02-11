@@ -12,6 +12,7 @@ class Template {
     this.rows = []
     this.skip = 1
     this.util = new Utility()
+    this.epicNames = {}
   }
 
   load() {
@@ -60,6 +61,13 @@ class Template {
             issue["Epic Name"] = issue["Summary"]
             issue["Issue Type"] = "Epic"
             lastEpic = issue["Summary"]
+            if(this.epicNames[issue["Summary"]] == undefined) {
+              this.epicNames[issue["Summary"]] = "used"
+            } else {
+              this.log.error(`duplicate epic names detected, please update template so that each epic created has a unique summary field.`)
+              this.log.error(`Epic Name: ${issue["Summary"]}`)
+              process.exit(8)
+            }
             break
           case 'story':
             lastStory = this.id
