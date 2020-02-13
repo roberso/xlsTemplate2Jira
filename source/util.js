@@ -5,7 +5,7 @@ class Utility {
     return cell != undefined ? cell.v : undefined;
   }
 
-  sheet2Array(sheet, skip, useFirstRow = false, emptyMax = 10) {
+  sheet2Array(sheet, skip, useFirstRow = false, emptyMax = 100) {
     let rc = []
     let altHeader = null
     if (useFirstRow) {

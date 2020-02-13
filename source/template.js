@@ -61,7 +61,7 @@ class Template {
             issue["Epic Name"] = issue["Summary"]
             issue["Issue Type"] = "Epic"
             lastEpic = issue["Summary"]
-            if(this.epicNames[issue["Summary"]] == undefined) {
+            if (this.epicNames[issue["Summary"]] == undefined) {
               this.epicNames[issue["Summary"]] = "used"
             } else {
               this.log.error(`duplicate epic names detected, please update template so that each epic created has a unique summary field.`)
@@ -100,9 +100,7 @@ class Template {
           if (v == undefined) {
             v = ''
           }
-          if (typeof v == 'string') {
-            rc = rc.replace(reg, v)
-          }
+          rc = rc.replace(reg, `${v}`)
         })
 
         reg = new RegExp('{{[A-Z]+}}', 'g')
