@@ -26,6 +26,6 @@
     "json2csv": "^4.5.4",
     "log4js": "^6.1.0",
     "number-converter-alphabet": "^1.1.0",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   }
 }
