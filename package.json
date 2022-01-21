@@ -24,7 +24,7 @@
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.1.0",
     "json2csv": "^4.5.4",
-    "log4js": "^6.1.0",
+    "log4js": "^6.4.0",
     "number-converter-alphabet": "^1.1.0",
     "xlsx": "^0.15.4"
   }
